@@ -1,0 +1,7 @@
+CREAR Package.json 
+npm init, agregar valores
+
+DESINSTALAR
+npm uninstall nombrePaquete #ej: nodemon
+
+YARGS
